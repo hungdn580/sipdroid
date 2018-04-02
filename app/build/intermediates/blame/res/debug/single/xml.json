@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\codec_settings.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\xml\\codec_settings.xml"
+    }
+]

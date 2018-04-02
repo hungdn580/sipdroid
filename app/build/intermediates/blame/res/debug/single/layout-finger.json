@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\dtmf_twelve_key_dialer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\dtmf_display.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dtmf_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\dialpad.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dialpad.xml"
+    }
+]

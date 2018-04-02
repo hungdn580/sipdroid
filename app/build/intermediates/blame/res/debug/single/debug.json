@@ -1,0 +1,738 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dial_number_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dial_number_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dialpad_tray.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dialpad_tray.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_selected_full.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_selected_full.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_0_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_0_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_normal_tall_land.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_normal_tall_land.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_activated.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_5_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_5_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_contacts.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_hold_on.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_hold_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_5.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_call_card_person_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-land\\call_card_person_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_unknown_3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_unknown_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_fav_five.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_fav_five.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger_dtmf_display.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dtmf_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_goback.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\goback.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_pound_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_pound_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_8_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_8_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_star_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_star_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon32.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\icon32.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete_activated.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dialer_voicemail.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dialer_voicemail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_end.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_auto_answer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\auto_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mute.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\mute.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_unknown.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_incoming_call_answer_options.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_incoming_call_answer_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1_no_vm_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1_no_vm_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_4.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_0_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_0_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_redial.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_redial.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_presence_away.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_presence_away.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_card_popup.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\call_card_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_selected_stared.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_selected_stared.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_camera.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\video_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_normal_short.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_normal_short.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_5_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_5_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_presence_offline.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_presence_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_3.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_selected_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_selected_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_6_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_6_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_selected_recent.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_selected_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_onhold.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_onhold.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_7_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_7_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_im.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\im.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon22.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\icon22.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_incoming_call_hold_answer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_incoming_call_hold_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_8_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_8_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_delete_phone_number_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_delete_phone_number_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_presence_available.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_presence_available.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_conference.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_conference.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_delete_phone_number.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_delete_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_end.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_phone_call_bluetooth.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\stat_sys_phone_call_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_6.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_recent.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_end.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_hold_short.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_hold_short.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_connected_tall_land.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_connected_tall_land.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dial_number_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dial_number_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_sipdroid.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\sipdroid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_frame.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_6_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_6_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_ongoing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_ongoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_answer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_hold_tall_port.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_hold_tall_port.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_7_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_7_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_star.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_phone_call.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\stat_sys_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_activated_full.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_activated_full.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_9.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_configure.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\configure.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_unselected_stared.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_unselected_stared.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_phone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_launcher_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_pound_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_pound_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_speakerphone_on.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_speakerphone_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contacts_edit_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_contacts_edit_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_dialing.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_dialing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_busy.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_busy.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_auto_answer_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\auto_answer_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_delete_phone_number_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_delete_phone_number_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_tray_handle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\tray_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_unselected_dialer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_unselected_dialer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_connected_tall_port.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_connected_tall_port.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_card_person_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\call_card_person_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_tray_handle_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\tray_handle_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dark_header.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dark_header.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_hangup.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_hangup.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_dial_pad.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_menu_dial_pad.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_9_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_9_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1_no_vm.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1_no_vm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_hold_tall_land.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_hold_tall_land.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_merge.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_merge.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_connected_short.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_connected_short.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_8.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_4_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_4_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_hold_off.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_hold_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_incall_add.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_incall_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_unselected_recent.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_unselected_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_item_indicator_focus.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_item_indicator_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger_dialpad.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dialpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_search_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_create_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\create_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer_default_dial.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer_default_dial.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_ended_tall_land.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_ended_tall_land.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_people.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_normal_tall_port.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_normal_tall_port.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_ongoing_call_notification.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\ongoing_call_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_incoming_call_answer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_incoming_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_incoming_call_dont_answer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_incoming_call_dont_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_item_indicator.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_item_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_headphone_deactive.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_headphone_deactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_7.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_lcd.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_lcd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_9_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_9_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_0.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger_dtmf_twelve_key_dialer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout-finger\\dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_pound.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_pound.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete_active.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\xml_codec_settings.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\xml\\codec_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_ended_tall_port.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_ended_tall_port.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dial_number.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dial_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_speakerphone_off.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_speakerphone_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_4_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_4_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_done.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_presence_idle.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_presence_idle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dialer_voicemail_black.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dialer_voicemail_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_starred.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_starred.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1_no_vm_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1_no_vm_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_tray_handle_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\tray_handle_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_1_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_1_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_star_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_star_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_normal_full.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_normal_full.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dark_header_dithered.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dark_header_dithered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sym_call_add_call.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\sym_call_add_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_photo_border.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_photo_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_2_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_2_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer_dial.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer_dial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_dialer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_pressed_full.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_pressed_full.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon64.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\icon64.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_incall.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\incall.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_launcher_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_launcher_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_selected_dialer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_selected_dialer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_3_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_3_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_textfield_active.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_textfield_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture_unknown_2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\picture_unknown_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_bar_item_app_background_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\status_bar_item_app_background_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_tab_unselected_contacts.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_tab_unselected_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dial_delete_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dial_delete_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incall_frame_ended_short.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\incall_frame_ended_short.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_tray_handle_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\tray_handle_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_dialer_voicemail_white.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_dialer_voicemail_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_btn_dialer_default.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\btn_dialer_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_headphone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_headphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_conf.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\conf.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_end_call.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable\\ic_menu_end_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_2_blk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_2_blk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_dial_num_3_wht.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\dial_num_3_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-finger_ic_menu_contact.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\drawable-finger\\ic_menu_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\sipdroid\\app\\src\\main\\res\\layout\\call_card.xml"
+    }
+]
